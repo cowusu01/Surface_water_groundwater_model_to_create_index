@@ -1,4 +1,5 @@
 #function to connect to Url and download data
+# to collect useful information
 import json
 import requests
 import pandas as pd
